@@ -1,7 +1,7 @@
-# TechLink Solutions (Fictional): Azure Cloud Migration & Infrastructure Project
+# TechLink Solutions: Azure Cloud Migration & Infrastructure Project
 
 ## Overview
-This repository contains a comprehensive cloud migration project for **TechLink Solutions**, a mid-sized tech company transitioning from an on-premises data center to **Microsoft Azure**. 
+This repository contains a comprehensive cloud migration project for **TechLink Solutions**, a mid-sized tech company transitioning from an on-premises data center to **Microsoft Azure**.
 
 The project bridges high-level strategic planning with hands-on technical implementation. It is split into two core components:
 1. **Strategic Cloud Migration Plan:** Evaluating organizational readiness, designing cloud security architecture, and mapping out a phased migration strategy.
@@ -29,8 +29,19 @@ The primary objective of this project is to simulate a real-world enterprise clo
 
 ---
 
+## Deliverables & Solutions Summary
+
+This project incorporates the deliverables and solution documents for both key milestones:
+
+* **Assessment 1 Solution (`Cloud_Migration_and_Security_Plan_Implementation.pdf`):** Documents the strategic evaluation, including organizational readiness assessments, cloud adoption strategy, compliance framework (UK GDPR & PCI-DSS), and the 18-month migration roadmap[cite: 3, 4, 5, 8, 9].
+* **Assessment 2 Solution (`Case_Scenario_Solution.pdf`):** Documents the practical implementation in Azure, including step-by-step technical configurations, network topology, container setups, and screenshot evidence of the deployed infrastructure[cite: 12, 13, 14, 27].
+
+---
+
 ## Repository Structure
 
 * `README.md` – Overview, learning objectives, and project summary.
 * `Theory_Assignment.md` – Theoretical migration strategy, readiness assessment, and security planning.
 * `Case_Study_Scenario.md` – Step-by-step practical implementation tasks, Azure setup requirements, and screenshot evidence.
+* `Cloud_Migration_and_Security_Plan_Implementation.pdf` – Compiled report and solution document for Assessment 1[cite: 3].
+* `Case_Scenario_Solution.pdf` – Technical execution report and evidence documentation for Assessment 2[cite: 12].
