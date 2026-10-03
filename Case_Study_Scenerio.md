@@ -4,7 +4,7 @@ TechLink Solutions is migrating from an on-premises infrastructure to Microsoft 
 
 ---
 
-# Azure Cloud Infrastructure & Containerisation Tasks
+## Azure Cloud Infrastructure & Containerisation Tasks
 
 ## Task 1: Secure Cloud Network & Virtual Machines
 
