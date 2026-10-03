@@ -33,15 +33,15 @@ The primary objective of this project is to simulate a real-world enterprise clo
 
 This project incorporates the deliverables and solution documents for both key milestones:
 
-* **Assessment 1 Solution (`Cloud_Migration_and_Security_Plan_Implementation.pdf`):** Documents the strategic evaluation, including organizational readiness assessments, cloud adoption strategy, compliance framework (UK GDPR & PCI-DSS), and the 18-month migration roadmap[cite: 3, 4, 5, 8, 9].
-* **Assessment 2 Solution (`Case_Scenario_Solution.pdf`):** Documents the practical implementation in Azure, including step-by-step technical configurations, network topology, container setups, and screenshot evidence of the deployed infrastructure[cite: 12, 13, 14, 27].
+* **Migration_Assessment.pdf`:** Documents the strategic evaluation, including organizational readiness assessments, cloud adoption strategy, compliance framework (UK GDPR & PCI-DSS), and the 18-month migration roadmap.
+* **`Case_Scenario_Solution.pdf`:** Documents the practical implementation in Azure, including step-by-step technical configurations, network topology, container setups, and screenshot evidence of the deployed infrastructure.
 
 ---
 
 ## Repository Structure
 
 * `README.md` – Overview, learning objectives, and project summary.
-* `Theory_Assignment.md` – Theoretical migration strategy, readiness assessment, and security planning.
-* `Case_Study_Scenario.md` – Step-by-step practical implementation tasks, Azure setup requirements, and screenshot evidence.
-* `Cloud_Migration_and_Security_Plan_Implementation.pdf` – Compiled report and solution document for Assessment 1[cite: 3].
-* `Case_Scenario_Solution.pdf` – Technical execution report and evidence documentation for Assessment 2[cite: 12].
+* `Cloud_Migration_and_Security_Plan_Implementation.md` – Migration context and objectives.
+* `Case_Study_Scenario.md` – Case Study tasks, requirements, and requirements .
+* `Migration_Assessment.pdf` – Compiled report and theoretical migration strategy, readiness assessment, and security planning.
+* `Case_Scenario_Solution.pdf` – Technical execution report and evidence documentation for Microsoft Azure Migration. Step-by-step practical implementation tasks, Azure setup requirements, and screenshot evidence
