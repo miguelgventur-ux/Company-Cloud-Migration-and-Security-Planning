@@ -3,6 +3,8 @@
 ## **Organisational background**
 TechLink Solutions is a mid-sized technology company with approximately 350 employees operating across software development, data analytics, and digital services. The company currently hosts its applications and databases on an on-premises data centre located at its headquarters.
 
+---
+
 ### **TechLink’s core system consists of:**
 1. A customer-facing web application
 2. A relational database storing customer and transaction data
